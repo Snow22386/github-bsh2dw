@@ -7,7 +7,7 @@ import path from 'path';
   // replace the addresses and amount with your own
   const collectionAddress = '0x96c7138c5ed741E5C923470bD27b8272fa3C717F';
   const tokenAddress = '0x2D2DeDba9D45DDaCd938B9DA5b3ED6F7aA18b5C4';
-  const tokenAmount = 1200;
+  const tokenAmount = 2999;
 
   const contract = await sdk.getContract(collectionAddress);
 
